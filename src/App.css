@@ -37,15 +37,17 @@
     }
   }
   
-  .welcome-message {
+  .super-tonka {
     font-weight: bold;
-    font-size: 24px;
+    font-size: 36px;
     color: blue;
     animation: colorChange 2s infinite;
   }
   
-  .super-tonka {
-    color: red;
+  .welcome-message {
+    font-weight: bold;
+    font-size: 36px;
+    color: white;
   }
   
   @keyframes colorChange {
