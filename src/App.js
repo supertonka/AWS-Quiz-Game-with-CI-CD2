@@ -28,6 +28,10 @@ function App() {
         {({ signOut }) => (
           <main>
             <header className='App-header'>
+              {/* Welcome Message */}
+              <h1 className="welcome-message">
+                Welcome to the <span className="super-tonka">Super Tonka</span> AWS Quiz
+              </h1>
               {/* Quiz Component */}
               <Quiz />
               {/* Sign Out Button */}
