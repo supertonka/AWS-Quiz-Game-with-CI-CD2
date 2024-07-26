@@ -39,14 +39,14 @@
   
   .super-tonka {
     font-weight: bold;
-    font-size: 36px;
+    font-size: 36.5px;
     color: blue;
     animation: colorChange 2s infinite;
   }
   
   .welcome-message {
     font-weight: bold;
-    font-size: 36px;
+    font-size: 36.5px;
     color: white;
   }
   
